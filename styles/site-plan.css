@@ -173,3 +173,28 @@ nav a:hover {
   border-top: 1px solid;
   border-right: 1px solid;
 }
+
+.me-img{
+  width: 100%; 
+  padding-bottom: 50px;
+}
+
+.journey-img{
+  width: 100%; 
+  padding-bottom: 50px;
+}
+
+.project-img{
+  width: 100%; 
+  padding-bottom: 50px;
+}
+
+.data1-img{
+  width: 100%; 
+  padding-bottom: 50px;
+}
+
+.data2-img{
+  width: 100%; 
+  padding-bottom: 50px;
+}
