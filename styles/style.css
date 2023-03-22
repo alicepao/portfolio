@@ -189,7 +189,7 @@ main section img {
   }
   
   .text {
-    color: white;
+    color: black;
     font-size: 16px;
     padding: 16px 32px;
     font-family: "Noto Serif Georgian", serif, sans-serif;
@@ -207,6 +207,12 @@ main section img {
 
 .click:hover{
     background-color: #FFF1DC;
+    text-decoration: none;
+}
+
+.click a {
+    text-decoration: none;
+    color: black; 
 }
 
 hr.dotted {
