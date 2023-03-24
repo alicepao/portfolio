@@ -452,6 +452,7 @@ main section img {
 .ongoing-card li {
     font-family: "Noto Serif Georgian", serif, sans-serif;
     text-align: left;
+    margin: 15px; 
 }
 
 .row {
@@ -498,6 +499,7 @@ main section img {
 
 .whatsnext-card li, p{
     text-align: left;
+    margin: 15px;
 }
 
 .button-card {
