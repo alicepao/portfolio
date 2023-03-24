@@ -301,7 +301,7 @@ footer #github{
     padding-left: 90px; /* same size as the label elements */
   }
 
-/* Journey Page */
+/* Project Page */
 
 .home-grid-project {
     text-align: left;
@@ -397,7 +397,7 @@ main section img {
         font-size: 25px;
 }
 
-/* Project */
+/* Journey */
 
 
 main section img {
@@ -435,9 +435,9 @@ main section img {
     transform: scale(1.1); 
 }
 
-.ongoing-card {
-    grid-column: 1/2;
-    grid-row: 1/2; 
+.ongoing-card h2 {
+    color: #0081c9;
+    padding-bottom: 50px;
 }
 
 .onging-card h2 {
@@ -446,10 +446,23 @@ main section img {
 
 .ongoing-card p {
     font-family: "Noto Serif Georgian", serif, sans-serif;
+    text-align: center;
 }
 
 .ongoing-card li {
     font-family: "Noto Serif Georgian", serif, sans-serif;
+    text-align: left;
+}
+
+.row {
+    display: flex; 
+    font-family:  "Noto Serif Georgian", serif, sans-serif;
+    margin: 10px; 
+}
+
+.column {
+    flex: 50%;
+    padding: 10px;
 }
 
 .click{
@@ -481,6 +494,10 @@ main section img {
 
 .whatsnext-card a {
     font-family: "Noto Serif Georgian", serif, sans-serif;
+}
+
+.whatsnext-card li, p{
+    text-align: left;
 }
 
 .button-card {
