@@ -239,6 +239,7 @@ hr.dotted {
     font-family: "Noto Serif Georgian", serif, sans-serif;
 }
 
+
 .button-card {
         color: #1572A1;
         text-decoration: none;
@@ -487,6 +488,11 @@ main section img {
 
 .powerbi-card li {
     font-family: "Noto Serif Georgian", serif, sans-serif;
+}
+
+.powerbi {
+    border: 0;
+    margin: 50px;
 }
 
 .click{
